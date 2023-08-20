@@ -1,0 +1,22 @@
+
+
+Timesheet Program
+
+
+- Input login information (ID,Password) and signup feature / First tab
+
+- Basic features: Summary (Day, Week, Month) / Total Hours, 
+		  Dashboard (Hours displayed with number of entries) / display Date,Hours, Travel status, Note / edit/delete buttons 
+		  Add/Edit Hour (save feature to display on the dashboard) / should typically input date, hours, Travel status note
+
+- 
+
+
+
+Timesheet Database
+
+- Date, hours, Travel status, Note
+
+
+
+
